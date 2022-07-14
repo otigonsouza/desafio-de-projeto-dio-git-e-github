@@ -9,4 +9,4 @@ Desafio de Git/GitHub
 
 Me siga no [Instagram](https://www.instagram.com/otigonsouza/?theme=dark)
 
-Meu [linkedin] (https://www.linkedin.com/in/tiago-souza-65766a23b/)
+Meu [linkedin](https://www.linkedin.com/in/tiago-souza-65766a23b/)
